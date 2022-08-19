@@ -1,0 +1,19 @@
+
+How do I create a hidden file or folder? How do I display it in the CLI?
+
+By adding dot(.) befor the file or folder name.
+
+show the headen file or folders by add -a to the command ls ..(ls -a)
+
+
+How do I create multiple nested directories?
+
+by adding -p to the command mkdir >> (mkdir -p) [files name1/file name2 /..]
+
+
+HowHow do I append a message to a file, without a newline character, so the 
+
+we can use echo [what]>> [file name] as showing down here
+
+first message
+second message
