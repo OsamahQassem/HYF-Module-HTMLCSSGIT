@@ -1,0 +1,9 @@
+how to activ gnome-open , and why I can not run sudo in my CLI.
+
+what is (and) in the CLI.ro use it between files or foders so you can do multiple changs.
+
+can I jump directly to afile any the devise by intering the name only.
+
+how to copy or move one file or more from a folder to another folder which not exist in the same diractory.
+
+
