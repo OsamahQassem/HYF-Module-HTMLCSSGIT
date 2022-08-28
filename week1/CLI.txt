@@ -23,6 +23,13 @@ HowHow do I append a message to a file, without a newline character, so the
 
 we can use echo [what]>> [file name] as showing down here
 
-echo [massage] [file name]
+echo first message > [file name]
 
+first message
+
+
+echo second message >> [file name]
+
+first message
+second message
 
