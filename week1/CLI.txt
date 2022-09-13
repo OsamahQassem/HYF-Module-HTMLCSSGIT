@@ -6,7 +6,7 @@ By adding dot(.) before the file or folder name.
 
    .[file/folder name]
 
-
+we
 show the hidden file or folders by add -a to the command ls ..(ls -a)
 
 ls -a[file/folder name]
